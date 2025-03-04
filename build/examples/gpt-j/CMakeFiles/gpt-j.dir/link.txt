@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/gpt-j.dir/main.cpp.o -o ../../bin/gpt-j  -Wl,-rpath,/home/song/program/ggml/build/src ../libcommon.a ../libcommon-ggml.a ../../src/libggml.so 

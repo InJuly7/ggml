@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/yolov3-tiny.dir/yolov3-tiny.cpp.o CMakeFiles/yolov3-tiny.dir/yolo-image.cpp.o -o ../../bin/yolov3-tiny  -Wl,-rpath,/home/song/program/ggml/build/src ../../src/libggml.so ../libcommon.a 

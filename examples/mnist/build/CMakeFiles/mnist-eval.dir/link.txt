@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/mnist-eval.dir/mnist-eval.cpp.o -o mnist-eval   -L/home/song/program/ggml/examples/mnist/build  -lggml -lcommon libmnist-common.a -lggml -lcommon 

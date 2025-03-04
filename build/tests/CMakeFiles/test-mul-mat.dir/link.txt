@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test-mul-mat.dir/test-mul-mat.cpp.o -o ../bin/test-mul-mat  -Wl,-rpath,/home/song/program/ggml/build/src ../src/libggml.so 

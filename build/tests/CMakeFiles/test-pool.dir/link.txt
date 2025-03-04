@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/test-pool.dir/test-pool.c.o -o ../bin/test-pool  -Wl,-rpath,/home/song/program/ggml/build/src ../src/libggml.so 

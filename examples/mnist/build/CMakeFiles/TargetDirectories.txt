@@ -1,0 +1,5 @@
+/home/song/program/ggml/examples/mnist/build/CMakeFiles/mnist-common.dir
+/home/song/program/ggml/examples/mnist/build/CMakeFiles/mnist-eval.dir
+/home/song/program/ggml/examples/mnist/build/CMakeFiles/mnist-train.dir
+/home/song/program/ggml/examples/mnist/build/CMakeFiles/edit_cache.dir
+/home/song/program/ggml/examples/mnist/build/CMakeFiles/rebuild_cache.dir

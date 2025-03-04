@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test-arange.dir/test-arange.cpp.o -o ../bin/test-arange  -Wl,-rpath,/home/song/program/ggml/build/src ../src/libggml.so 

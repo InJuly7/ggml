@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/test-customop.dir/test-customop.c.o -o ../bin/test-customop  -Wl,-rpath,/home/song/program/ggml/build/src ../src/libggml.so 

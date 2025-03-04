@@ -1,0 +1,242 @@
+[
+{
+  "directory": "/home/song/program/ggml/build/src",
+  "command": "/usr/bin/cc -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_EXPORTS -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/src/. -O3 -DNDEBUG -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -fopenmp -std=gnu11 -o CMakeFiles/ggml.dir/ggml.c.o -c /home/song/program/ggml/src/ggml.c",
+  "file": "/home/song/program/ggml/src/ggml.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/src",
+  "command": "/usr/bin/cc -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_EXPORTS -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/src/. -O3 -DNDEBUG -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -fopenmp -std=gnu11 -o CMakeFiles/ggml.dir/ggml-alloc.c.o -c /home/song/program/ggml/src/ggml-alloc.c",
+  "file": "/home/song/program/ggml/src/ggml-alloc.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/src",
+  "command": "/usr/bin/cc -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_EXPORTS -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/src/. -O3 -DNDEBUG -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -fopenmp -std=gnu11 -o CMakeFiles/ggml.dir/ggml-backend.c.o -c /home/song/program/ggml/src/ggml-backend.c",
+  "file": "/home/song/program/ggml/src/ggml-backend.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/src",
+  "command": "/usr/bin/cc -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_EXPORTS -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/src/. -O3 -DNDEBUG -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -fopenmp -std=gnu11 -o CMakeFiles/ggml.dir/ggml-quants.c.o -c /home/song/program/ggml/src/ggml-quants.c",
+  "file": "/home/song/program/ggml/src/ggml-quants.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/src",
+  "command": "/usr/bin/cc -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_EXPORTS -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/src/. -O3 -DNDEBUG -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -fopenmp -std=gnu11 -o CMakeFiles/ggml.dir/ggml-aarch64.c.o -c /home/song/program/ggml/src/ggml-aarch64.c",
+  "file": "/home/song/program/ggml/src/ggml-aarch64.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/cc  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu11 -o CMakeFiles/test-vec0.dir/test-vec0.c.o -c /home/song/program/ggml/tests/test-vec0.c",
+  "file": "/home/song/program/ggml/tests/test-vec0.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu++11 -o CMakeFiles/test-grad0.dir/test-grad0.cpp.o -c /home/song/program/ggml/tests/test-grad0.cpp",
+  "file": "/home/song/program/ggml/tests/test-grad0.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu++11 -o CMakeFiles/test-opt.dir/test-opt.cpp.o -c /home/song/program/ggml/tests/test-opt.cpp",
+  "file": "/home/song/program/ggml/tests/test-opt.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu++11 -o CMakeFiles/test-quantize-fns.dir/test-quantize-fns.cpp.o -c /home/song/program/ggml/tests/test-quantize-fns.cpp",
+  "file": "/home/song/program/ggml/tests/test-quantize-fns.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu++11 -o CMakeFiles/test-quantize-perf.dir/test-quantize-perf.cpp.o -c /home/song/program/ggml/tests/test-quantize-perf.cpp",
+  "file": "/home/song/program/ggml/tests/test-quantize-perf.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/cc  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu11 -o CMakeFiles/test-mul-mat0.dir/test-mul-mat0.c.o -c /home/song/program/ggml/tests/test-mul-mat0.c",
+  "file": "/home/song/program/ggml/tests/test-mul-mat0.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/cc  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu11 -o CMakeFiles/test-mul-mat2.dir/test-mul-mat2.c.o -c /home/song/program/ggml/tests/test-mul-mat2.c",
+  "file": "/home/song/program/ggml/tests/test-mul-mat2.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/cc  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu11 -o CMakeFiles/test0.dir/test0.c.o -c /home/song/program/ggml/tests/test0.c",
+  "file": "/home/song/program/ggml/tests/test0.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/cc  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu11 -o CMakeFiles/test1.dir/test1.c.o -c /home/song/program/ggml/tests/test1.c",
+  "file": "/home/song/program/ggml/tests/test1.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/cc  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu11 -o CMakeFiles/test2.dir/test2.c.o -c /home/song/program/ggml/tests/test2.c",
+  "file": "/home/song/program/ggml/tests/test2.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/cc  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu11 -o CMakeFiles/test3.dir/test3.c.o -c /home/song/program/ggml/tests/test3.c",
+  "file": "/home/song/program/ggml/tests/test3.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/cc  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu11 -o CMakeFiles/test-pool.dir/test-pool.c.o -c /home/song/program/ggml/tests/test-pool.c",
+  "file": "/home/song/program/ggml/tests/test-pool.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu++11 -o CMakeFiles/test-arange.dir/test-arange.cpp.o -c /home/song/program/ggml/tests/test-arange.cpp",
+  "file": "/home/song/program/ggml/tests/test-arange.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu++11 -o CMakeFiles/test-timestep_embedding.dir/test-timestep_embedding.cpp.o -c /home/song/program/ggml/tests/test-timestep_embedding.cpp",
+  "file": "/home/song/program/ggml/tests/test-timestep_embedding.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/cc  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu11 -o CMakeFiles/test-conv-transpose.dir/test-conv-transpose.c.o -c /home/song/program/ggml/tests/test-conv-transpose.c",
+  "file": "/home/song/program/ggml/tests/test-conv-transpose.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu++11 -o CMakeFiles/test-conv-transpose-1d.dir/test-conv-transpose-1d.cpp.o -c /home/song/program/ggml/tests/test-conv-transpose-1d.cpp",
+  "file": "/home/song/program/ggml/tests/test-conv-transpose-1d.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/cc  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu11 -o CMakeFiles/test-dup.dir/test-dup.c.o -c /home/song/program/ggml/tests/test-dup.c",
+  "file": "/home/song/program/ggml/tests/test-dup.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/cc  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu11 -o CMakeFiles/test-rel-pos.dir/test-rel-pos.c.o -c /home/song/program/ggml/tests/test-rel-pos.c",
+  "file": "/home/song/program/ggml/tests/test-rel-pos.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/cc  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu11 -o CMakeFiles/test-customop.dir/test-customop.c.o -c /home/song/program/ggml/tests/test-customop.c",
+  "file": "/home/song/program/ggml/tests/test-customop.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu++11 -o CMakeFiles/test-conv1d.dir/test-conv1d.cpp.o -c /home/song/program/ggml/tests/test-conv1d.cpp",
+  "file": "/home/song/program/ggml/tests/test-conv1d.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu++11 -o CMakeFiles/test-conv2d.dir/test-conv2d.cpp.o -c /home/song/program/ggml/tests/test-conv2d.cpp",
+  "file": "/home/song/program/ggml/tests/test-conv2d.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu++11 -o CMakeFiles/test-mul-mat.dir/test-mul-mat.cpp.o -c /home/song/program/ggml/tests/test-mul-mat.cpp",
+  "file": "/home/song/program/ggml/tests/test-mul-mat.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu++11 -o CMakeFiles/test-backend-buffer.dir/test-backend-buffer.cpp.o -c /home/song/program/ggml/tests/test-backend-buffer.cpp",
+  "file": "/home/song/program/ggml/tests/test-backend-buffer.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu++11 -o CMakeFiles/test-backend-ops.dir/test-backend-ops.cpp.o -c /home/song/program/ggml/tests/test-backend-ops.cpp",
+  "file": "/home/song/program/ggml/tests/test-backend-ops.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/tests",
+  "command": "/usr/bin/cc  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG   -UNDEBUG -std=gnu11 -o CMakeFiles/test-cont.dir/test-cont.c.o -c /home/song/program/ggml/tests/test-cont.c",
+  "file": "/home/song/program/ggml/tests/test-cont.c"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/examples -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/common.dir/common.cpp.o -c /home/song/program/ggml/examples/common.cpp",
+  "file": "/home/song/program/ggml/examples/common.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/examples -I/home/song/program/ggml/src/../include -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/common-ggml.dir/common-ggml.cpp.o -c /home/song/program/ggml/examples/common-ggml.cpp",
+  "file": "/home/song/program/ggml/examples/common-ggml.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples/gpt-2",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/examples -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/gpt-2-ctx.dir/main-ctx.cpp.o -c /home/song/program/ggml/examples/gpt-2/main-ctx.cpp",
+  "file": "/home/song/program/ggml/examples/gpt-2/main-ctx.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples/gpt-2",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/examples -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/gpt-2-alloc.dir/main-alloc.cpp.o -c /home/song/program/ggml/examples/gpt-2/main-alloc.cpp",
+  "file": "/home/song/program/ggml/examples/gpt-2/main-alloc.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples/gpt-2",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/examples -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/gpt-2-backend.dir/main-backend.cpp.o -c /home/song/program/ggml/examples/gpt-2/main-backend.cpp",
+  "file": "/home/song/program/ggml/examples/gpt-2/main-backend.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples/gpt-2",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/examples -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/gpt-2-sched.dir/main-sched.cpp.o -c /home/song/program/ggml/examples/gpt-2/main-sched.cpp",
+  "file": "/home/song/program/ggml/examples/gpt-2/main-sched.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples/gpt-2",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/examples -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/gpt-2-quantize.dir/quantize.cpp.o -c /home/song/program/ggml/examples/gpt-2/quantize.cpp",
+  "file": "/home/song/program/ggml/examples/gpt-2/quantize.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples/gpt-2",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/examples -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/gpt-2-batched.dir/main-batched.cpp.o -c /home/song/program/ggml/examples/gpt-2/main-batched.cpp",
+  "file": "/home/song/program/ggml/examples/gpt-2/main-batched.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples/gpt-j",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/examples -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/gpt-j.dir/main.cpp.o -c /home/song/program/ggml/examples/gpt-j/main.cpp",
+  "file": "/home/song/program/ggml/examples/gpt-j/main.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples/gpt-j",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/examples -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/gpt-j-quantize.dir/quantize.cpp.o -c /home/song/program/ggml/examples/gpt-j/quantize.cpp",
+  "file": "/home/song/program/ggml/examples/gpt-j/quantize.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples/mnist",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/examples -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/mnist-common.dir/mnist-common.cpp.o -c /home/song/program/ggml/examples/mnist/mnist-common.cpp",
+  "file": "/home/song/program/ggml/examples/mnist/mnist-common.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples/mnist",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/examples -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/mnist-eval.dir/mnist-eval.cpp.o -c /home/song/program/ggml/examples/mnist/mnist-eval.cpp",
+  "file": "/home/song/program/ggml/examples/mnist/mnist-eval.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples/sam",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/examples -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/sam.dir/main.cpp.o -c /home/song/program/ggml/examples/sam/main.cpp",
+  "file": "/home/song/program/ggml/examples/sam/main.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples/yolo",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/examples -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/yolov3-tiny.dir/yolov3-tiny.cpp.o -c /home/song/program/ggml/examples/yolo/yolov3-tiny.cpp",
+  "file": "/home/song/program/ggml/examples/yolo/yolov3-tiny.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples/yolo",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/examples -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/yolov3-tiny.dir/yolo-image.cpp.o -c /home/song/program/ggml/examples/yolo/yolo-image.cpp",
+  "file": "/home/song/program/ggml/examples/yolo/yolo-image.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples/simple",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/simple-ctx.dir/simple-ctx.cpp.o -c /home/song/program/ggml/examples/simple/simple-ctx.cpp",
+  "file": "/home/song/program/ggml/examples/simple/simple-ctx.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples/simple",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/simple-backend.dir/simple-backend.cpp.o -c /home/song/program/ggml/examples/simple/simple-backend.cpp",
+  "file": "/home/song/program/ggml/examples/simple/simple-backend.cpp"
+},
+{
+  "directory": "/home/song/program/ggml/build/examples/magika",
+  "command": "/usr/bin/c++  -I/home/song/program/ggml/src/../include -I/home/song/program/ggml/examples -O3 -DNDEBUG -Wpedantic -Wunused-variable -Wno-unused-function -Wno-multichar -std=gnu++11 -o CMakeFiles/magika.dir/main.cpp.o -c /home/song/program/ggml/examples/magika/main.cpp",
+  "file": "/home/song/program/ggml/examples/magika/main.cpp"
+}
+]

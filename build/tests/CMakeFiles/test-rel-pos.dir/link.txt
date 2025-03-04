@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/test-rel-pos.dir/test-rel-pos.c.o -o ../bin/test-rel-pos  -Wl,-rpath,/home/song/program/ggml/build/src ../src/libggml.so 

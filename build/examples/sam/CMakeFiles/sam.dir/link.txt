@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/sam.dir/main.cpp.o -o ../../bin/sam  -Wl,-rpath,/home/song/program/ggml/build/src ../../src/libggml.so ../libcommon.a 

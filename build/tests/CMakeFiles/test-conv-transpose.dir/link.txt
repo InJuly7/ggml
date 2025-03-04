@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/test-conv-transpose.dir/test-conv-transpose.c.o -o ../bin/test-conv-transpose  -Wl,-rpath,/home/song/program/ggml/build/src ../src/libggml.so 

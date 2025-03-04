@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/test1.dir/test1.c.o -o ../bin/test1  -Wl,-rpath,/home/song/program/ggml/build/src ../src/libggml.so 

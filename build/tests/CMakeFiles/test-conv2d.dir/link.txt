@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test-conv2d.dir/test-conv2d.cpp.o -o ../bin/test-conv2d  -Wl,-rpath,/home/song/program/ggml/build/src ../src/libggml.so 

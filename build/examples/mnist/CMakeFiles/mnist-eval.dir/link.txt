@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/mnist-eval.dir/mnist-eval.cpp.o -o ../../bin/mnist-eval  -Wl,-rpath,/home/song/program/ggml/build/src ../libcommon.a libmnist-common.a ../../src/libggml.so ../libcommon.a 

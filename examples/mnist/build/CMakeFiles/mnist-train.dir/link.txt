@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/mnist-train.dir/mnist-train.cpp.o -o mnist-train   -L/home/song/program/ggml/examples/mnist/build  -lggml -lcommon libmnist-common.a -lggml -lcommon 
